@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"orderManagement"},{"l":"orderManagement.BusinessLogic"},{"l":"orderManagement.DataAccess"},{"l":"orderManagement.Model"},{"l":"orderManagement.Presentation"}];updateSearchResults();
